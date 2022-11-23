@@ -1,0 +1,31 @@
+body {
+	max-width: 650px;
+}
+
+
+header {
+	font-size: 35px;
+	margin-left: 90px;
+}
+
+
+nav {
+	
+}
+
+
+a {
+	text-decoration: none;
+}
+
+
+ul {
+
+}
+
+
+li {
+	list-style-type: none;
+	margin-left: 200px;
+}
+
